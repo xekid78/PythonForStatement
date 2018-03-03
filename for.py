@@ -1,2 +1,2 @@
-for i in range(12):
-    print(str(i + 1) + "月")
+for i in range(1, 13):
+    print(str(i) + "月")
